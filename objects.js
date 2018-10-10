@@ -1,4 +1,4 @@
-var playlist = {kanye: "stronger"}
+var playlist = {Phil Ochs: "stronger"}
 
 var key= "string"
 var value ="string1"
